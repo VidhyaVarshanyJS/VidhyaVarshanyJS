@@ -23,7 +23,7 @@
 
 
 
-[![Twitter](https://img.shields.io/twitter/follow/vidhyavarshany?logo=twitter&style=for-the-badge)](https://twitter.com/vidhyavarshany)
+[![Twitter](https://img.shields.io/twitter/follow/vidhyavarshany?logo=twitter&style=for-the-badge)](https://twitter.com/vidhyavarshany) &nbsp;
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhyavarshany/)
 
 - 🌱 I’m currently learning **DSA in Java ☕**
@@ -62,10 +62,13 @@
 <p><img align="center" src="https://readme-jokes.vercel.app/api?Border&theme=radical&borderColor=%23d3d3d3"></p><hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhyavarshanyjs&show_icons=true&locale=en&layout=compact&theme=radical" alt="vidhyavarshanyjs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhyavarshanyjs&show_icons=true&locale=en&layout=compact&theme=radical" alt="vidhyavarshanyjs" /></p>
+
+
+
 <p align="right"><img  src="https://github-readme-stats.vercel.app/api?username=VidhyaVarshanyJS&show_icons=true&theme=radical" alt="vidhyavarshanyjs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhyavarshanyjs&theme=radical" alt="vidhyavarshanyjs" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhyavarshanyjs&theme=radical" alt="vidhyavarshanyjs" /></p>
 
 
 <br />  
@@ -77,7 +80,7 @@
 
 <h3 align="center"></p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <p align="right">
