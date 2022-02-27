@@ -59,7 +59,7 @@
 <h3 align="left">Random Jokes</h3>
 <br />
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&borderColor=%23d3d3d3)
+![Jokes Card](https://readme-jokes.vercel.app/api?Border&theme=radical&borderColor=%23d3d3d3)
 <hr>
 
 <br />
