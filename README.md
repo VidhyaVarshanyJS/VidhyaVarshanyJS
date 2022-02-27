@@ -57,18 +57,16 @@
 </p>
 <!-- jokes -->
 <h3 align="left">Random Jokes</h3>
-<br />
+<br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?Border&theme=radical&borderColor=%23d3d3d3)
-<hr>
-
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhyavarshanyjs&show_icons=true&locale=en&layout=compact&theme=radical" alt="vidhyavarshanyjs" /></p>
+<p><img align="center" src="https://readme-jokes.vercel.app/api?Border&theme=radical&borderColor=%23d3d3d3"></p><hr>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VidhyaVarshanyJS&show_icons=true&theme=radical" alt="vidhyavarshanyjs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhyavarshanyjs&show_icons=true&locale=en&layout=compact&theme=radical" alt="vidhyavarshanyjs" /></p>
+<p align="right"><img  src="https://github-readme-stats.vercel.app/api?username=VidhyaVarshanyJS&show_icons=true&theme=radical" alt="vidhyavarshanyjs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhyavarshanyjs&theme=radical" alt="vidhyavarshanyjs" /></p>
+
 
 <br />  
 
@@ -82,7 +80,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-<p align="center">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
 </p>
