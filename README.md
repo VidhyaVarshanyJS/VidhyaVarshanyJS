@@ -21,12 +21,10 @@
 
 <br>
 
-<p> <a href="https://twitter.com/vidhyavarshany" target="blank"><img src="https://img.shields.io/twitter/follow/vidhyavarshany?logo=twitter&style=for-the-badge" alt="vidhyavarshany" /></a> 
 
-<a href="https://www.linkedin.com/in/vidhyavarshany/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidhyavarshany" /></a> 
 
-</p>
-
+[![Twitter](https://img.shields.io/twitter/follow/vidhyavarshany?logo=twitter&style=for-the-badge)](https://twitter.com/vidhyavarshany)
+[![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhyavarshany/)
 
 - 🌱 I’m currently learning **DSA in Java ☕**
 
