@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "VidhyaVarshanyJS/VidhyaVarshanyJS@main"
+        uses: "VidhyaVarshanyJS/VidhyaVarshanyJS@master"
         with:
           USERNAME: 'vidhyavarshany' # Hashnode Username
           BLOG_URL: 'https://vidhyavarshany.hashnode.dev' # Blog URL
