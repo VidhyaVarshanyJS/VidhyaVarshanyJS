@@ -34,9 +34,9 @@
 
 - ⚡ Fun fact **I am a bio🧬 stream CS 💻student**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
 
