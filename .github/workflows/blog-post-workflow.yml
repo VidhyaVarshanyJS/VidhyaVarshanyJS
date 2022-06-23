@@ -21,4 +21,4 @@ jobs:
           COUNT: 3 # MAX Visisble
           STYLE: "blog-grid"
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
