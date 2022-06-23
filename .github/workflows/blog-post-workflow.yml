@@ -20,5 +20,4 @@ jobs:
           BLOG_URL: 'https://vidhyavarshany.hashnode.dev' # Blog URL
           COUNT: 3 # MAX Visisble
           STYLE: "blog-grid"
-        env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+
