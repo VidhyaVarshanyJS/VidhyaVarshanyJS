@@ -1,14 +1,24 @@
-name: Latest blog post workflow
+name: "📚 Blog Updater"
+
 on:
+  workflow_dispatch:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *' # Runs Every Day
+
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update_blogs:
+    name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: VidhyaVarshanyJS/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "VidhyaVarshanyJS/VidhyaVarshanyJS@main"
         with:
-          feed_list: 'https://dev.to/feed/vidhyavarshany'
+          USERNAME: 'vidhyavarshany' # Hashnode Username
+          BLOG_URL: 'https://vidhyavarshany.hashnode.dev' # Blog URL
+          COUNT: 3 # MAX Visisble
+          STYLE: "blog-grid"
+        env:
+          GITHUB_TOKEN: ${{ secrets.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 }}
