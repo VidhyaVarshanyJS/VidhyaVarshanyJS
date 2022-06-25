@@ -35,24 +35,22 @@
 <a href="https://vidhyavarshany.hashnode.dev/ultimate-web-developer-resource" title="17 Ultimate Web Developer Resources🎊🥇"><strong>17 Ultimate Web Developer Resources🎊🥇</strong></a>
 <div><strong>6 Dec 2021</strong> | <strong>Updated: 6 Dec 2021</strong></div>
 <br/> HELLO👋🏻, MATES. I hope you all are doing great!!!👍🏻😊
-
+ 
 
 I am glad to bring you some of the useful websites in this blog. I hope you will enjoy reading this article. So, this blog is all about websites, that are handy and can be the ultimate prod...</td><td><a href="https://vidhyavarshany.hashnode.dev/awesome-freebies-for-developers" title="UnFamiliar Awesome Freebies for Developers 👨🏻‍💻👩🏻‍💻"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633787484691/SoIs-Tucl.png" alt="UnFamiliar Awesome Freebies for Developers 👨🏻‍💻👩🏻‍💻"   /></a>
 <a href="https://vidhyavarshany.hashnode.dev/awesome-freebies-for-developers" title="UnFamiliar Awesome Freebies for Developers 👨🏻‍💻👩🏻‍💻"><strong>UnFamiliar Awesome Freebies for Developers 👨🏻‍💻👩🏻‍💻</strong></a>
-
 <div><strong>10 Oct 2021</strong> | <strong>Updated: 10 Oct 2021</strong></div>
 <br/> HELLO👋🏻, MATES. I hope you all are doing great!!!👍🏻😊
-
+ 
 
 I am glad to bring you some of the useful websites in this blog. I hope you will enjoy reading this article. So, this blog will not be a technical thing; instead, it helps you make those te...</td></tr><tr><td><a href="https://vidhyavarshany.hashnode.dev/secret-life-mantras-to-ace-your-life-part-1" title="Secret 🙊 Life Mantras To Ace Your Life — Part 1🌟"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632930970855/i_iUQNobi.gif" alt="Secret 🙊 Life Mantras To Ace Your Life — Part 1🌟"   /></a>
 <a href="https://vidhyavarshany.hashnode.dev/secret-life-mantras-to-ace-your-life-part-1" title="Secret 🙊 Life Mantras To Ace Your Life — Part 1🌟"><strong>Secret 🙊 Life Mantras To Ace Your Life — Part 1🌟</strong></a>
-
 <div><strong>29 Sept 2021</strong> | <strong>Updated: 5 Oct 2021</strong></div>
 <br/> Hey ,Netizens.🤓I hope you all are in good health ❤
 
-SHORT GLIMPSE.....😄
-I am back with another exiciting and proficient series of Life Mantras .This Series would definitely make your life little more productive, energetic, positive and gives you ...</td></tr></table>
 
+SHORT GLIMPSE.....😄
+I am back with another exiciting and proficient series of Life Mantras .This Series would definitely make your life little more productive, energetic, positive  and gives you ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <div>
