@@ -33,7 +33,7 @@
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://vidhyavarshany.hashnode.dev/how-i-built-beneish-pass-app-using-streamlit" title="How I built Beneish Pass App using Streamlit🎗️"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1658599971515/AZK80Gi8q.png" alt="How I built Beneish Pass App using Streamlit🎗️"   /></a>
 <a href="https://vidhyavarshany.hashnode.dev/how-i-built-beneish-pass-app-using-streamlit" title="How I built Beneish Pass App using Streamlit🎗️"><strong>How I built Beneish Pass App using Streamlit🎗️</strong></a>
-<div><strong>23 July 2022</strong></div>
+<div><strong>23 July 2022</strong> | <strong>Updated: 23 July 2022</strong></div>
 <br/> 📘 Hey y'all, The Beneish Pass app, built with Streamlit, is briefly described here. Hope this makes sense.
 
 
