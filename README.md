@@ -114,7 +114,6 @@ I am glad to bring you some of the useful websites in this blog. I hope you will
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
 </p>
 
 <!-- ending -->
