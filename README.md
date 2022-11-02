@@ -20,8 +20,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/vidhyavarshany?logo=twitter&style=for-the-badge)](https://twitter.com/vidhyavarshany) &nbsp;
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhyavarshany/)
 
-- 🌱 Open Source💗Learning in Public✅ Content Creation **
-
 - 💬 Ask me about **C ,python 🐍 ,Java ☕**
 
 - 📍 I make list on **Curation of Dev Resources**
