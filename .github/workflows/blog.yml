@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'vidhyavarshany' # Hashnode Username
           BLOG_URL: 'https://vidhyavarshany.hashnode.dev' # Blog URL
-          COUNT: 3 # MAX Visisble
+          COUNT: 4 # MAX Visisble
           STYLE: "blog-grid"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
