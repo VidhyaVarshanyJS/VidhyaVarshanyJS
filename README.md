@@ -27,22 +27,24 @@
 [![Twitter](https://img.shields.io/twitter/follow/vidhyavarshany?logo=twitter&style=for-the-badge)](https://twitter.com/vidhyavarshany) &nbsp;
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhyavarshany/)
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me 🪶</h3>
 
 ###
 
+<p align="left">
+ 👨‍💻 Creating bugs since 2020 <br>
 
-- 👨‍💻 Creating bugs since 2020
+📍 I'm passionate about `Open Source & Content Creation`<br>
 
-- 📍 I'm passionate about `Open Source & Content Creation`
+🌱 I’m currently participating in #AdventOfCode2022 <br>
 
-- 🌱 I’m currently participating in #AdventOfCode2022
+🎯 Goals : clean code ,make connections, learn stuffs <br>
 
-- 🎯 Goals : clean code ,make connections, learn stuffs
+ 💗 Curating my Digital Garden `Chain of Allure`<br>
+ 
+ </p>
 
-- 💗 Curating my Digital Garden `Chain of Allure`
-
-## My Latest Blog Posts 👇
+### My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://vidhyavarshany.hashnode.dev/amazing-15-github-repos" title="Amazing 15 GitHub Repos📂"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1669290866477/-62DQ9vdq.png" alt="Amazing 15 GitHub Repos📂"   /></a>
