@@ -33,7 +33,8 @@
 
 
 - 👨‍💻 Creating bugs since 2020
-- 🌱 I’m participating in #AdventOfCode2022
+- 📍 I'm passionate about `Open Source & Content Creation`
+- 🌱 I’m currently participating in #AdventOfCode2022
 - 🎯 Goals : clean code ,make connections, learn stuffs
 - 💗 Curating my Digital Garden `Chain of Allure`
 
