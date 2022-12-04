@@ -59,6 +59,8 @@ I am glad to bring you some of the useful websites in this blog. I hope you will
 I am glad to bring you some of the useful websites in this blog. I hope you will enjoy reading this article. So, this blog will not be a technical thing; instead, it helps you make those te...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vidhyavarshanyjs&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
 <div>
 <h3>Connect with me&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages and Tools
   </h3>
