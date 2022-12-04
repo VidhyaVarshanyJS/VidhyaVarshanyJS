@@ -118,7 +118,7 @@ I am glad to bring you some of the useful websites in this blog. I hope you will
 <!-- snakes contribution -->
 <details>
 <summary><h2>🐍 Snake eating my conttribution </b></summary>
-<img src="https://github.com/VidhyaVarshanyJS/VidhyaVarshanyJS/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VidhyaVarshanyJS/VidhyaVarshanyJS/output/snake.svg" alt="Snake animation" />
 
 ###
 
