@@ -13,7 +13,12 @@
 <!-- welcome message -->
 <h1 align="center"><strong>&nbsp;&nbsp;Hello, Amigos</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height = "30px"></h2>
 
-<h3 align="center">Open Source Enthusiast✨ | Contributor 🔰| Content Creator📙</h3>
+
+<h3 align="center">
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vidhyavarshanyjs&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+  
+  
+  Open Source Enthusiast✨ | Contributor 🔰| Content Creator📙</h3>
 
 <br>
 
@@ -59,7 +64,7 @@ I am glad to bring you some of the useful websites in this blog. I hope you will
 I am glad to bring you some of the useful websites in this blog. I hope you will enjoy reading this article. So, this blog will not be a technical thing; instead, it helps you make those te...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vidhyavarshanyjs&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
 
 <div>
 <h3>Connect with me&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages and Tools
