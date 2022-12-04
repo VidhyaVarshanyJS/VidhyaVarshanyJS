@@ -27,11 +27,15 @@
 [![Twitter](https://img.shields.io/twitter/follow/vidhyavarshany?logo=twitter&style=for-the-badge)](https://twitter.com/vidhyavarshany) &nbsp;
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhyavarshany/)
 
-- 💬 Ask me about **C ,python 🐍 ,Java ☕**
+<h2 align="left">About me</h2>
 
-- 📍 I make list on **Curation of Dev Resources**
+###
 
-- ⚡ Fun fact **I am a bio🧬 stream CS 💻student**
+
+- 👨‍💻 Creating bugs since 2020
+- 🌱 I’m participating in #AdventOfCode2022
+- 🎯 Goals : clean code ,make connections, learn stuffs
+- 💗 Curating my Digital Garden `Chain of Allure`
 
 ## My Latest Blog Posts 👇
 
@@ -117,7 +121,7 @@ I am glad to bring you some of the useful websites in this blog. I hope you will
 
 <!-- snakes contribution -->
 <details>
-<summary><h2>🐍 Snake eating my conttribution </b></summary>
+<summary><h2>🐍 Snake eating my contribution </b></summary>
 <img src="https://raw.githubusercontent.com/VidhyaVarshanyJS/VidhyaVarshanyJS/output/snake.svg" alt="Snake animation" />
 
 ###
