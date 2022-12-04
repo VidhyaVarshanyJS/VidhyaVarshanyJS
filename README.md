@@ -118,7 +118,8 @@ I am glad to bring you some of the useful websites in this blog. I hope you will
 <!-- snakes contribution -->
 <details>
 <summary><h2>🐍 Snake eating my conttribution </b></summary>
-![github-user-contribution](https://user-images.githubusercontent.com/76642252/205498709-79efc69b-db7b-419d-b2b0-0c8a4b7f68fc.svg)
+![github-user-contribution](https://user-images.githubusercontent.com/76642252/205498800-b18c3f40-8cf3-4ceb-8317-8fe3ba9b6a78.gif)
+
 
 
 </div>
