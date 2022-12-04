@@ -21,6 +21,7 @@
   Open Source Enthusiast✨ | Contributor 🔰| Content Creator📙</h3>
 
 <br>
+
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vidhyavarshanyjs&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
   
 [![Twitter](https://img.shields.io/twitter/follow/vidhyavarshany?logo=twitter&style=for-the-badge)](https://twitter.com/vidhyavarshany) &nbsp;
