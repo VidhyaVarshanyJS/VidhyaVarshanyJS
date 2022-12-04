@@ -22,7 +22,7 @@
 
 <br>
 
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vidhyavarshanyjs&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
   
 [![Twitter](https://img.shields.io/twitter/follow/vidhyavarshany?logo=twitter&style=for-the-badge)](https://twitter.com/vidhyavarshany) &nbsp;
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhyavarshany/)
@@ -125,6 +125,8 @@ I am glad to bring you some of the useful websites in this blog. I hope you will
 <h3 align="center"></p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vidhyavarshanyjs&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
