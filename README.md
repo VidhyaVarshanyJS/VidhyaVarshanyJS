@@ -36,7 +36,7 @@
 
 📍 I'm passionate about `Open Source & Content Creation`<br>
 
-🌱 I’m currently participating in #AdventOfCode2022 <br>
+🌱 I’m currently learnign `DSA` in `.java` <br>
 
 🎯 Goals : clean code ,make connections, learn stuffs <br>
 
