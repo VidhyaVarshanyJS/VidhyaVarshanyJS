@@ -36,8 +36,6 @@
 
 📍 I'm passionate about `Open Source & Content Creation`<br>
 
-🌱 I’m currently learnign `DSA` in `.java` <br>
-
 🎯 Goals : clean code ,make connections, learn stuffs <br>
 
  💗 Curating my Digital Garden `Chain of Allure`<br>
